@@ -10,19 +10,11 @@ Great for visualizing body landmarks, stick-figure motion tracking, or just havi
 
 📦 Requirements
 Make sure the following packages are installed:
-
-bash
-Copy
-Edit
 pip install opencv-python mediapipe numpy
 🚀 How to Run
 Clone this repository or save the script.
 
 Run the Python file:
-
-bash
-Copy
-Edit
 python pose_robot_clone.py
 Allow access to your webcam.
 
