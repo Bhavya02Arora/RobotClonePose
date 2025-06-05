@@ -8,14 +8,6 @@ Displays you on the left and a mirrored robot skeleton on the right
 
 Great for visualizing body landmarks, stick-figure motion tracking, or just having fun!
 
-🎥 Live Preview
-diff
-Copy
-Edit
-👤 You (Live Feed)     🤖 Robot Clone (Stick Figure)
-+------------------+   +-------------------------+
-|  [Webcam Video]  |   |    [Mirrored Skeleton]  |
-+------------------+   +-------------------------+
 📦 Requirements
 Make sure the following packages are installed:
 
